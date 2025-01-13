@@ -1,6 +1,4 @@
-Пояснение к программе:
 
-Инструкция по получению токена в файлах vkonsole.py и client.py. Там его нужно вбить.
 
 usage: vkonsole.py [-h] [-s TEXT TEXT] [-m [COUNT]] [--history ID ID]
                    [--comments] [--realname] [--fullname] [--noname] [-l] [-f]
@@ -13,9 +11,9 @@ positional arguments:
 
 optional arguments:
   -h, --help            						show this help message and exit
-  -s, --send Получатель Текст_сообщения					Send message
+  -s, --send ГЏГ®Г«ГіГ·Г ГІГҐГ«Гј Г’ГҐГЄГ±ГІ_Г±Г®Г®ГЎГ№ГҐГ­ГЁГї					Send message
   -m [COUNT], --messages [COUNT]					Show messages
-  --history ID_беседы Кол-во_сообщений  				Show message history
+  --history ID_ГЎГҐГ±ГҐГ¤Г» ГЉГ®Г«-ГўГ®_Г±Г®Г®ГЎГ№ГҐГ­ГЁГ©  				Show message history
   --comments            						shows comments on a post
   --realname            						shows users real names instead nicks
   --fullname           							shows users real names with nicks
